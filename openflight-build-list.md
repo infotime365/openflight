@@ -6,12 +6,14 @@ A simple, layer-by-layer shopping list for the OpenFlight launch monitor. Batter
 
 **Case: print**
 
-- Shell
-- Screen frame
-- Radar front
-- Mic front
-- Mic holder
-- Feet
+All files come from the OpenFlight enclosure repo: https://github.com/open-flight/openflight-enclosure
+
+- Shell (X1202 version): https://github.com/open-flight/openflight-enclosure/blob/main/stls/shell/v1/Shell-x1202.stl
+- Screen frame (Raspberry Pi Display 2 version): https://github.com/open-flight/openflight-enclosure/blob/main/stls/screen/v1/Screen-RPI-Display-2.stl
+- Radar front: https://github.com/open-flight/openflight-enclosure/blob/main/stls/radar/v1/Front-Radar-No-Fill.stl
+- Mic front: https://github.com/open-flight/openflight-enclosure/blob/main/stls/camera/v1/Front-Camera-Sound-Detector.stl
+- Mic holder: https://github.com/open-flight/openflight-enclosure/blob/main/stls/camera/v1/Sound-Detector-Retainer.stl
+- Feet (solid): https://github.com/open-flight/openflight-enclosure/blob/main/stls/feet/v1/Feet-Solid.stl
 
 **Case: buy**
 
@@ -38,7 +40,7 @@ A simple, layer-by-layer shopping list for the OpenFlight launch monitor. Batter
 
 ## Layer 3: The screen
 
-- 7 inch 1024x600 screen with a ribbon cable (DSI) connection (still to be chosen) 🔴 LINK NEEDED
+- Raspberry Pi Touch Display 2 (7 inch, ribbon cable): https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC1635?qs=iLKYxzqNS77haif4zd6Z7w%3D%3D
 - Ribbon cable for the screen: https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC1131?qs=HoCaDK9Nz5eSyEpyddOkmQ%3D%3D
 
 ## Layer 4: The radar
