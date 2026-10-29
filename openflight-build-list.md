@@ -15,11 +15,11 @@ A simple, layer-by-layer shopping list for the OpenFlight launch monitor. Batter
 
 **Case: buy**
 
-- Brass inserts M3: https://www.mouser.com/en/ProductDetail/SI/IUTB-M3?qs=7MVldsJ5Uay0LzKdLqXQgg%3D%3D
-- Brass inserts M2.5: https://www.mouser.com/en/ProductDetail/SI/IUTB-M2.5?qs=7MVldsJ5UaxaLK8FbVq%252B7A%3D%3D
-- Brass inserts M2: https://www.mouser.com/en/ProductDetail/SI/IUTB-M2?qs=7MVldsJ5Uaxqa%252BXpG0YdCg%3D%3D
-- Screws M3x12: https://www.mouser.com/en/ProductDetail/Keystone-Electronics/29314?qs=UWqYQ%2F2cZWt3tJIcm3aNPw%3D%3D
-- Screws M2.5x6: https://www.mouser.com/en/ProductDetail/Keystone-Electronics/29301?qs=UWqYQ%2F2cZWvU8rDxJuNXDw%3D%3D
+- Brass inserts M3 (buy 30): https://www.mouser.com/en/ProductDetail/SI/IUTB-M3?qs=7MVldsJ5Uay0LzKdLqXQgg%3D%3D
+- Brass inserts M2.5 (buy 10): https://www.mouser.com/en/ProductDetail/SI/IUTB-M2.5?qs=7MVldsJ5UaxaLK8FbVq%252B7A%3D%3D
+- Brass inserts M2 (buy 10): https://www.mouser.com/en/ProductDetail/SI/IUTB-M2?qs=7MVldsJ5Uaxqa%252BXpG0YdCg%3D%3D
+- Screws M3x12 (buy 30): https://www.mouser.com/en/ProductDetail/Keystone-Electronics/29314?qs=UWqYQ%2F2cZWt3tJIcm3aNPw%3D%3D
+- Screws M2.5x6 (buy 16): https://www.mouser.com/en/ProductDetail/Keystone-Electronics/29301?qs=UWqYQ%2F2cZWvU8rDxJuNXDw%3D%3D
 
 **Power: buy**
 
