@@ -24,16 +24,16 @@ A simple, layer-by-layer shopping list for the OpenFlight launch monitor. Batter
 **Power: buy**
 
 - Battery board (Geekworm X1202): https://www.amazon.com/dp/B0CRZ4ZXQW
-- 4 batteries (flat-top 18650, unprotected) 🔴 LINK NEEDED
-- 12 volt adapter 🔴 LINK NEEDED
+- 4 batteries (Samsung 30Q flat-top 18650, unprotected; buy all 4 together): https://www.batteryjunction.com/samsung-30q-18650-3000-flat
+- 12 volt 3 amp adapter: https://www.amazon.com/dp/B095XD1TD2
 - Panel jack: https://www.amazon.com/dp/B0DP6MNQQB
-- Heat shrink or heat shrink solder sleeves (solder the panel jack wires straight to the board) 🔴 LINK NEEDED
-- Power button 🔴 LINK NEEDED
+- Heat shrink or heat shrink solder sleeves (solder the panel jack wires straight to the board): https://www.amazon.com/dp/B07GDDKJ1D
+- Power button (12mm, pre-wired): https://www.amazon.com/dp/B0BWJFWN3L
 
 ## Layer 2: The computer
 
-- Raspberry Pi 5: https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D
-- Cooling fan: https://www.raspberrypi.com/products/active-cooler/
+- Raspberry Pi 5 (8GB): https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC1432?qs=4dK74SdgGtykYzUsGkX7lw%3D%3D
+- Cooling fan: https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC1148?qs=HoCaDK9Nz5fqo0izK2taew%3D%3D
 - microSD card (already have one)
 
 ## Layer 3: The screen
