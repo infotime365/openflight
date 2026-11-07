@@ -32,9 +32,9 @@ Prices are as of Oct 28 to Nov 7, 2026 and will change. Items marked Hold are wa
 | 6 Mic | SparkFun sound detector (SEN-14262) | 1 | $13.95 | $13.95 | [Mouser](https://www.mouser.com/en/ProductDetail/SparkFun-Electronics/SEN-14262?qs=wd5RIQLrsJjQtC864kCAvQ%3D%3D) |  |
 | 6 Mic | 47k ohm resistor (kit) | 1 | $9.95 | $9.95 | [Mouser](https://www.mouser.com/en/ProductDetail/SparkFun-Electronics/COM-10969?qs=WyAARYrbSnYDX0pYE0qQCg%3D%3D) |  |
 | 6 Mic | 3 jumper wires | 1 | $2.75 | $2.75 | [Mouser](https://www.mouser.com/en/ProductDetail/SparkFun-Electronics/PRT-12796?qs=WyAARYrbSnYazPSZHWXCfQ%3D%3D) | Solder the GATE wire, cover with heat shrink |
-| | **Total** | | | **$862.29** | | Before shipping, tax and tariffs |
-
-Mouser's own tariff estimate adds about $61 to the Mouser items. Shipping and sales tax are extra.
+| | Parts subtotal | | | $862.29 | | Item prices only |
+| | Estimated tariffs, shipping and tax | | | $124.69 | | Estimate, based on the Mouser, Battery Junction and Amazon totals from your earlier carts |
+| | **Estimated total** | | | **$986.98** | | |
 
 Screen power: solder the two screen power cables together, matching 5V to 5V and ground to ground (check the markings on both boards), and cover the joint with heat shrink.
 
